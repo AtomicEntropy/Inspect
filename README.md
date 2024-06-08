@@ -2,7 +2,7 @@
 
 wip 
 
-Open-source system built on Inspect, a framework for large languague model evaluations
+Open-source system built on Inspect, a framework for large language model evaluations
 
 atomicentropy.com/inspect     
 
